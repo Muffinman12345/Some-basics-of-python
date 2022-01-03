@@ -13,4 +13,4 @@ Well, this is written from MY perspective (I'm a 11 year old) and all the things
 
 To print something in Python, you just have to type 
 
-''' asd '''
+"" asd ""
