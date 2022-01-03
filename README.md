@@ -9,7 +9,8 @@ Hi everybody! It's muffinman12345 here. You know those python books where you re
 
 Well, this is written from MY perspective (I'm a 11 year old) and all the things that work for me.
 
-#Printing
+# Printing
 
 To print something in Python, you just have to type 
 
+''' asd '''
