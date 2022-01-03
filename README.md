@@ -1,16 +1,6 @@
 # Some-basics-of-python
 
 
-Hi everybody! It's muffinman12345 here. You know those python books where you read something and 
+Hi everybody! It's muffinman12345 here. I don't have enough space for an entire "basics-book" so check out this website I made:
 
-1. It doesn't work
-2. You don't understand it
-3. It's 600 pages long?
-
-Well, this is written from MY perspective (I'm a 11 year old) and all the things that work for me.
-
-# Printing
-
-To print something in Python, you just have to type 
-
-"" asd ""
+https://python-for-beginners.muffinman12345.repl.co/
